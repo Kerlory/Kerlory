@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Kerlory
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Kerlory/Kerlory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hola, 😃👋
+mi nombre es Kerlon Ryan, 
+tengo 17 años, 😎
+soy estudiante de Ifro Calama y estoy estudiando informática, español e Internet de las cosas.🤓
+Siempre busco un nuevos desafíos para fortalecer mi mente.🤯
+soy soltero🥹
+y eso es lo que debes saber de mi🫡
